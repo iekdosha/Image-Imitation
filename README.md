@@ -15,10 +15,10 @@ Now that we could see a possible output of this script we could explain :)
 The methos is as follows (very abstract):
 1. load an image in graysacle
 2. build a cnn (from config file)
-3. for each apoch:
-	3.1 if points refresh is due: refresh random points
-	3.2 feed points into cnn and test how close the output (white-black) to the real image pixel on that points
-	3.3 minimize the loss (difference from real image values)
+3. for each apoch:  
+	3.1 if points refresh is due: refresh random points  
+	3.2 feed points into cnn and test how close the output (white-black) to the real image pixel on that points  
+	3.3 minimize the loss (difference from real image values)  
 
 output images will be saved where u run this script and config file should be in that folder aswell.
 
