@@ -24,9 +24,14 @@ output images will be saved where u run this script and config file should be in
 
 ## configuration:
 *img_path*: path to the input image
+
 *no_of_random_points*: number of random points to train on for each refresh
+
 *no_of_iteration_before_refresh*: number of iterations before each points refresh
+
 *hidden_layers*: hidden layers (not the input 2 or output 2), example: "hidden_layers": [17,10,17]
+
 *learning_rate*: gradient descent learning rate
+
 *epoch_count*: iteration count
 
