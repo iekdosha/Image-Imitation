@@ -7,7 +7,9 @@ for the image:
 ![](https://i.imgur.com/pHELj2G.jpg")  
 
 The output images will be:   
-link (gif is too large): https://i.imgur.com/7MJ7zTK.gif
+
+<img src="/result.gif?raw=true"> 
+
 
 Now that we could see a possible output of this script we could explain :)
 The methos is as follows (very abstract):
