@@ -1,0 +1,8 @@
+{
+    "img_path": "",
+	"no_of_random_points": 2000,
+	"no_of_iteration_before_refresh": 300,
+	"hidden_layers": [7,10,7],
+	"learning_rate": 0.005,
+	"epoch_count":50000
+}
