@@ -2,10 +2,12 @@
 This script visualizes how a simple network understands an image in grayscale.
 
 before we start lets look at some results then explain them.
-for the image:
+for the image:  
+
 ![](https://i.imgur.com/pHELj2G.jpg")
-The output images (represented here as a gif) will be:
-![Alt Text](https://i.imgur.com/7MJ7zTK.gif)
+The output images (represented here as a gif) will be:   
+
+![](https://i.imgur.com/7MJ7zTK.gif)
 
 Now that we could see a possible output of this script we could explain :)
 The methos is as follows (very abstract):
