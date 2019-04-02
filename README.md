@@ -3,7 +3,7 @@ This script visualizes how a simple network understands an image in grayscale.
 
 before we start lets look at some results then explain them.
 for the image:
-<img src="https://i.imgur.com/pHELj2G.jpg"/>
+![](https://i.imgur.com/pHELj2G.jpg")
 The output images (represented here as a gif) will be:
 ![Alt Text](https://i.imgur.com/7MJ7zTK.gif)
 
